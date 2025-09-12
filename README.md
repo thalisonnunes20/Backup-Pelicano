@@ -1,6 +1,8 @@
 Copie o Link:
 
-```bash https://github.com/ThalisuS2/Backup-Pelicano/blob/main/schedule-b-a-c-k-u-p'-s.json ```
+```bash
+https://github.com/ThalisuS2/Backup-Pelicano/blob/main/schedule-b-a-c-k-u-p'-s.json
+```
 
 No painel do Pelicano vá em Schedules e cole esse Link que copiamos:
 
